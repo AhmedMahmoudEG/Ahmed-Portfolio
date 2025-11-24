@@ -1,36 +1,117 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚡ Ahmed Mahmoud | Full-Stack Engineer Portfolio
 
-## Getting Started
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-First, run the development server:
+> A high-performance, cyberpunk-themed personal portfolio website built with Next.js 14, TypeScript, and Tailwind CSS. Features advanced 3D animations, a custom design system, and a seamless light/dark mode.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Live Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**[View Live Demo](LINK_GOES_HERE)** _(Link to be updated)_
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+This project is built using the following technologies:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Icons:** [Lucide React](https://lucide.dev/) & [React Icons](https://react-icons.github.io/react-icons/)
+- **Forms:** [Web3Forms](https://web3forms.com/)
+- **Theming:** [next-themes](https://github.com/pacocoursey/next-themes)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## ✨ Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **🎨 Cyberpunk Aesthetic:** A unique, dark-themed design with neon cyan accents.
+- **🌗 Light/Dark Mode:** Full theme support with smooth transitions.
+- **⚡ High Performance:** Optimized with Next.js best practices and lazy loading.
+- **📱 Fully Responsive:** Looks great on mobile, tablet, and desktop.
+- **📧 Contact Form:** Functional contact form powered by Web3Forms.
+- **📄 Resume Download:** Easy access to download the resume.
+- **🎬 Advanced Animations:**
+  - 3D Avatar Tilt
+  - Scroll Progress Bar
+  - Staggered Tech Stack Grid
+  - Project Card Hover Effects
+  - Page Load Animations
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📸 Screenshots
+
+| Hero Section | Projects Section |
+| :---: | :---: |
+| ![Hero Placeholder](https://via.placeholder.com/600x300?text=Hero+Section) | ![Projects Placeholder](https://via.placeholder.com/600x300?text=Projects+Section) |
+
+| Tech Stack | Contact Section |
+| :---: | :---: |
+| ![Tech Stack Placeholder](https://via.placeholder.com/600x300?text=Tech+Stack) | ![Contact Placeholder](https://via.placeholder.com/600x300?text=Contact+Section) |
+
+---
+
+## 📦 Install & Run
+
+Follow these steps to run the project locally:
+
+1.  **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/portfolio.git
+    cd portfolio
+    ```
+
+2.  **Install dependencies:**
+
+    ```bash
+    npm install
+    # or
+    yarn install
+    # or
+    pnpm install
+    ```
+
+3.  **Run the development server:**
+
+    ```bash
+    npm run dev
+    ```
+
+4.  **Open your browser:**
+    Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
+
+---
+
+## 🚀 Deployment
+
+This project is optimized for deployment on **Vercel**.
+
+1.  Push your code to a GitHub repository.
+2.  Import the project into Vercel.
+3.  Vercel will automatically detect the Next.js settings.
+4.  Click **Deploy**.
+
+For more details, check out the [Next.js Deployment Documentation](https://nextjs.org/docs/deployment).
+
+---
+
+## 📬 Contact
+
+Feel free to reach out!
+
+- **Email:** [ahmed.mahmoud@hotmail.com](mailto:ahmed.mahmoud@hotmail.com)
+- **LinkedIn:** [Ahmed Mahmoud](https://www.linkedin.com/in/ahmadmahmoud98)
+- **GitHub:** [AhmedMahmoudEG](https://github.com/AhmedMahmoudEG/)
+
+---
+
+Made with ❤️ by Ahmed Mahmoud.
