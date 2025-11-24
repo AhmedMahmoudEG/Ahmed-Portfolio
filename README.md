@@ -51,11 +51,11 @@ This project is built using the following technologies:
 
 | Hero Section | Projects Section |
 | :---: | :---: |
-| ![Hero Section](screenshots/hero.png) | ![Projects Section](screenshots/projects.png) |
+| ![Hero Section](/src/screenshots/hero-section.jpg) | ![Projects Section](/src/screenshots/projects-section.jpg) |
 
 | Tech Stack | Contact Section |
 | :---: | :---: |
-| ![Tech Stack](screenshots/tech-stack.png) | ![Contact Section](screenshots/contact.png) |
+| ![Tech Stack](/src/screenshots/tech-stack.jpg) | ![Contact Section](/src/screenshots/contact-section.jpg) | 
 
 ---
 
