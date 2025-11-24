@@ -63,12 +63,18 @@ export default function Hero() {
                 className="flex flex-col items-center space-y-6"
             >
                 <div className="flex flex-col space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
-                    <button className="group relative rounded-full bg-[#2dd4bf] px-8 py-3 text-sm font-semibold text-black transition-all hover:bg-[#14b8a6] hover:shadow-[0_0_20px_rgba(45,212,191,0.4)]">
+                    <a
+                        href="#projects"
+                        className="group relative rounded-full bg-[#2dd4bf] px-8 py-3 text-sm font-semibold text-black transition-all hover:bg-[#14b8a6] hover:shadow-[0_0_20px_rgba(45,212,191,0.4)]"
+                    >
                         View Projects
-                    </button>
-                    <button className="group relative rounded-full border border-neutral-700 bg-transparent px-8 py-3 text-sm font-semibold text-white transition-all hover:border-[#2dd4bf]/50 hover:text-[#2dd4bf] hover:shadow-[0_0_20px_rgba(45,212,191,0.1)]">
+                    </a>
+                    <a
+                        href="#contact"
+                        className="group relative rounded-full border border-neutral-700 bg-transparent px-8 py-3 text-sm font-semibold text-white transition-all hover:border-[#2dd4bf]/50 hover:text-[#2dd4bf] hover:shadow-[0_0_20px_rgba(45,212,191,0.1)]"
+                    >
                         Contact Me
-                    </button>
+                    </a>
                 </div>
 
                 <DownloadResume />

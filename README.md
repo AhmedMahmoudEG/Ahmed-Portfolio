@@ -12,7 +12,7 @@
 
 ## 🚀 Live Demo
 
-**[View Live Demo](LINK_GOES_HERE)** _(Link to be updated)_
+**[View Live Demo](https://ahmed-portfolio-sepia.vercel.app/)**
 
 ---
 
@@ -51,11 +51,11 @@ This project is built using the following technologies:
 
 | Hero Section | Projects Section |
 | :---: | :---: |
-| ![Hero Placeholder](https://via.placeholder.com/600x300?text=Hero+Section) | ![Projects Placeholder](https://via.placeholder.com/600x300?text=Projects+Section) |
+| ![Hero Section](screenshots/hero.png) | ![Projects Section](screenshots/projects.png) |
 
 | Tech Stack | Contact Section |
 | :---: | :---: |
-| ![Tech Stack Placeholder](https://via.placeholder.com/600x300?text=Tech+Stack) | ![Contact Placeholder](https://via.placeholder.com/600x300?text=Contact+Section) |
+| ![Tech Stack](screenshots/tech-stack.png) | ![Contact Section](screenshots/contact.png) |
 
 ---
 
